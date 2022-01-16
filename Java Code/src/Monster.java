@@ -37,6 +37,11 @@ public class Monster {
 			alive = false;
 		}
 	}
+
+	public void moveMonster(MonsterTwo[] monster, int arrayItemIndex){
+          boolean isSpaceOpen = true;
+		  int maxXBoardSpace = MonsterTwo.battleBoard.length - 1;
+	}
 	
 	public Monster(int health, int movement, int attack) {
 		this.health = health;

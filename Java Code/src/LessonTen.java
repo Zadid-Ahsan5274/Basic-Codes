@@ -2,7 +2,7 @@ import java.util.Arrays;
 import org.apache.commons.lang3.ArrayUtils;
 public class LessonTen {
 
-    public static void main(String[]args) {
+    /*public static void main(String[]args) {
         MonsterTwo.buildBattleBoard();
         char[][] tempBattleBoard = new char[10][10];
         MonsterTwo[]Monsters = new MonsterTwo[4];
@@ -21,6 +21,6 @@ public class LessonTen {
         }
         MonsterTwo.redrawBoard();
     }
-
+*/
 
 }
